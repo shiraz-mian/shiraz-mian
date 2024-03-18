@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiraz-mian
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on 
+-  I’m looking to collaborate on Open Source & Freelance projects
 - 📫 How to reach me: shirazmian333@gamil.com
 
 <!---
