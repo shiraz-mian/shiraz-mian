@@ -1,7 +1,7 @@
 ![image](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 <h1 align="center">Hi 👋, I'm Shiraz</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s400x600/2705a8f39a11370e338f927bf374daa28af0bb29.gifv"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiraz-mian&label=Profile%20views&color=0e75b6&style=flat" alt="shiraz-mian" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shiraz____" target="blank"><img src="https://img.shields.io/twitter/follow/shiraz____?logo=twitter&style=for-the-badge" alt="shiraz____" /></a> </p>
